@@ -34,7 +34,8 @@ Class 2 and Class 3 are the same; Classes 0 and 1 gave out three different Class
 
 ![results](https://github.com/MuddassirR/Cryptocurrencies/blob/main/4.png)
 ![results](https://github.com/MuddassirR/Cryptocurrencies/blob/main/5.png)
+![results](https://github.com/MuddassirR/Cryptocurrencies/blob/main/6.png)
 
 Using the updated dataframe we created 3D scatter plots to visualize the 4 classes
-![results](https://github.com/MuddassirR/Cryptocurrencies/blob/main/6.png)
+![results](https://github.com/MuddassirR/Cryptocurrencies/blob/main/7.png)
 
