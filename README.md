@@ -9,5 +9,12 @@ The purpose of this analysis was to use unsupervised machine learning to analyze
 - clustering cryptocurrencies using K-Means
 - visualizing classification results with 2D and 3D scatter plots
 
-### Resources used:
-Data source: (crypto_data.csv)[https://github.com/MuddassirR/Cryptocurrencies/blob/main/Resources/crypto_data.csv]
+## Results
+
+After the preprocessing and cleaning phase we have 532 tradable cryptocurrencies in our dataset.
+
+### Clustering using K-Means
+
+![K-means graph](https://github.com/MuddassirR/Cryptocurrencies/blob/main/s5.png)
+
+The best k value appears to be 4, hence, we will use an output of 4 clusters to categorize cryptocurrencies.
